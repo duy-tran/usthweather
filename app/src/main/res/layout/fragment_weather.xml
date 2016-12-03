@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_1">
+
+    <TextView   android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="20\u2103"
+        android:id="@+id/condition_temp"/>
+    <TextView   android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sunny"
+        android:id="@+id/condition_text"
+        android:layout_below="@+id/condition_temp"/>
+    <TextView   android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hanoi"
+        android:layout_alignParentRight="true"/>
+    <ImageView  android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/weather_1"
+        android:id="@+id/condition_icon"/>
+
+</RelativeLayout>

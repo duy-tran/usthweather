@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Thời tiết USTH</string>
+    <string name="sunny">Trời nắng</string>
+    <string name="rainy">Trời mưa</string>
+    <string name="snowy">Tuyết rơi</string>
+    <string name="windy">Có gió</string>
+    <string name="cloudy">Nhiều mây</string>
+    <string name="mon">Thứ 2</string>
+    <string name="tue">Thứ 3</string>
+    <string name="wed">Thứ 4</string>
+    <string name="thu">Thứ 5</string>
+    <string name="fri">Thứ 6</string>
+    <string name="sat">Thứ 7</string>
+    <string name="sun">CN</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_refresh">Tải lại</string>
+    <string name="refreshing">Đang tải</string>
+    <string name="action_settings">Cài đặt</string>
+</resources>

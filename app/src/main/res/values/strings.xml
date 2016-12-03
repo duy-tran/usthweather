@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">USTH Weather</string>
+    <string name="sunny">Sunny</string>
+    <string name="rainy">Rainy</string>
+    <string name="snowy">Snowy</string>
+    <string name="windy">Windy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="action_settings">Settings</string>
+</resources>
